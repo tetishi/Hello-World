@@ -1,2 +1,5 @@
 # Hello-World
-Just another repository
+
+Hello eveyone!
+
+I'm learning Java
